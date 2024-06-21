@@ -8,6 +8,6 @@ Feel free to explore my repositories and reach out for collaboration ideas. Let'
 
 
 # Languages i would like to learn: 
-![HTML](https://img.shields.io/badge/HTML-5-orange)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+<img src="https://cdn.jsdelivr.net/npm/devicons@2.14.0/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicons@2.14.0/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicons@2.14.0/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
