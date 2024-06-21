@@ -1,5 +1,7 @@
-# Hi 👋, I'm Petruss!
+# Hi there 👋, I'm Petruss!
 
-I enjoy creating fun and innovative projects. Here you'll find my work on Web development, open source contributions, and other exciting experiments.
+I enjoy creating fun and innovative projects. Here you'll find my work on Roblox development, open source contributions, and other exciting experiments.
+
+I'm currently learning front-end development and plan to learn back-end development in the future.
 
 Feel free to explore my repositories and reach out for collaboration ideas. Let's create something amazing together!
