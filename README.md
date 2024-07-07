@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Petruss</h1>
 <h3 align="center">
-I enjoy creating fun and innovative projects. Here you'll find my work on Roblox development, open source contributions, and other exciting experiments.
+I enjoy creating fun and innovative projects.
 
 I'm currently learning front-end development and plan to learn back-end development in the future.
 
