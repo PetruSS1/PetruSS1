@@ -1,12 +1,18 @@
 <h1 align="center">Hi 👋, I'm Petruss</h1>
-<h3 align="center">I love creating fun projects</h3>
-<img align="righ" alt="Coding" width="400" src="https://camo.githubusercontent.com/4be83dad09cff00d3153f89208b9c02cbe58e338f7ba2d31bb428e4b51b09839/68747470733a2f2f63687269736465726d6f64792e636f6d2f636f6e74656e742f696d616765732f323031372f31322f31305f636f64696e675f6472696262626c652e676966"
+<h3 align="center">A passionate frontend developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petruss1&label=Profile%20views&color=0e75b6&style=flat" alt="petruss1" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=petruss1" alt="petruss1" /></a> </p>
+
+- Website [https://pware.online](https://pware.online)
+
+- Fun fact 💡 **My favorite food is 🍕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/@petrus38103904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@petrus38103904" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@petruss2709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@petruss2709" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
